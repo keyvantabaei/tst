@@ -21,6 +21,7 @@ using namespace std;
 int main()
 	{
 		cout<<"from src hello !"<<endl;
+		cout<<"for newb"<<endl;
 		return 0;
 	}
 
